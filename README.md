@@ -18,7 +18,7 @@ Podemos manipular el DOM con algunos de los siguientes métodos:
 document.getElementById(); => Para traer un elemento usando el id
 document.querySelector(); => Para traer un elemento usando su id o su clase 
 document.byTagName(); 
-document.byClassName(); => Para taer un elemento usando su clase 
+document.byClassName(); => Para traer un elemento usando su clase 
 
 3. Programación Orientada a Objetos (OOP):
 
